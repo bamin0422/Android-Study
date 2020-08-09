@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "554455956960",
+    "firebase_url": "https://bamininstaf16.firebaseio.com",
+    "project_id": "bamininstaf16",
+    "storage_bucket": "bamininstaf16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554455956960:android:4b85e44bc8f3393c4fbf85",
+        "android_client_info": {
+          "package_name": "com.example.bamininsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554455956960-pq1la5mcc9t4rlrdllvpv0of048rfc1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bamininsta",
+            "certificate_hash": "31ca796f739f0ff57994c14825f59777226ddc15"
+          }
+        },
+        {
+          "client_id": "554455956960-0cdt14cf8ahpu1sb1466qq1sajhufa2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKeE529oac35BOaApCEjxbn8NcCRkUrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554455956960-0cdt14cf8ahpu1sb1466qq1sajhufa2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

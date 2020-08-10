@@ -672,6 +672,5 @@ class MainActivity : AppCompatActivity() {
 
 }
 ```
-<br>
 # Android - Firebase
 
